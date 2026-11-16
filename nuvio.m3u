@@ -1,0 +1,9 @@
+#EXTM3U x-tvg-url="" url-tvg=""
+#EXTINF:-1 tvg-id="superman1941" tvg-name="Superman 1941" tvg-logo="https://archive.org/services/img/FleischerStudiosSuperman" group-title="NUVIO - COMPLETAS",Superman 1941 - COMPLETA (17 capitulos)
+https://archive.org/details/FleischerStudiosSuperman
+#EXTINF:-1 tvg-id="popeye" tvg-name="Popeye" tvg-logo="https://archive.org/services/img/PopeyeTheSailor" group-title="NUVIO - COMPLETAS",Popeye - COMPLETA
+https://archive.org/details/PopeyeTheSailor
+#EXTINF:-1 tvg-id="bettyboop" tvg-name="Betty Boop" tvg-logo="https://archive.org/services/img/BettyBoopCartoons" group-title="NUVIO - COMPLETAS",Betty Boop - COMPLETA
+https://archive.org/details/BettyBoopCartoons
+#EXTINF:-1 tvg-id="bonanza" tvg-name="Bonanza" tvg-logo="https://archive.org/services/img/BonanzaTheAvenger" group-title="NUVIO - CAP. GRATIS",Bonanza - Solo capitulos gratis
+https://archive.org/search?query=Bonanza+public+domain
